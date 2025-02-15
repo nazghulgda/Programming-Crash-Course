@@ -42,14 +42,17 @@ completely free.
 At the very beginning you will also read some quite usefull things, 
 which I strongly suggest to read and practice.
 
-How it all is organized?
+How it is all organized?
 Every part will start with README.md file (like this one) which will 
 cover basic information about what is included in course part you're 
-going to start. Each part, or module, like I'd like to call it, will 
+going to start.
+
+Each part, or module, like I'd like to call it, will 
 be a separate GIT repository, which you should fork to your GITHub, 
 clone to your computer and work on. That will be the best way for 
 all of us. My repositories will stay clean and ready for next 
 learners, and you will have all your files with you all the time.
+
 A subfolders will contain a topics, which we will work on - also 
 with README.md (containing lessons and tasks descriptions) and all 
 files you will need to do your work. The number of subfolders will 
