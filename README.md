@@ -42,7 +42,10 @@ completely free.
 At the very beginning you will also read some quite usefull things, 
 which I strongly suggest to read and practice.
 
+===================================================================
+
 How it is all organized?
+
 Every part will start with README.md file (like this one) which will 
 cover basic information about what is included in course part you're 
 going to start.
