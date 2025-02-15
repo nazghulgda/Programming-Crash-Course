@@ -1,4 +1,4 @@
-# nzghl_PY_CRS_part_001
+# nzghl Python and Django course part 001
 Python and Django course for very beginners
 
 In matter of fact, the course can also help you with getting familiar with linux OS, which is crucial. Of course, I know some people programming in Windows, I even tried it by myself, but ... it's not that nice and easy, as in linux (or any unix-like) system. My personal prefferences are actually also a little bit different, as I preffer to work on mac, but to be honest, the difference between mac and linux is just a graphical. Core is the same.
