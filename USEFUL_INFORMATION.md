@@ -9,3 +9,7 @@ You can also improve your typing speed in that site.
 Is it good for you, or you will treat it as a waste of time ... I'm leaving it up to you.
 
 2. ### How the web browsers work?  
+
+3. ### Lore ipsum
+
+4. ### HTTP Protocol basics
