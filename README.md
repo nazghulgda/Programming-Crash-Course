@@ -4,7 +4,7 @@
 learning all the topics, that are going to be covered here.</p>
 
 
-<>
+<p>
 [README.md] - this file<br>
 [INTRODUCTION.md](https://github.com/nazghulgda/Programming-Crash-Course/INTRODUCTION.md) - a few words about my reasons of doing this course<br>
 [USEFUL_INFO.md](https://github.com/nazghulgda/Programming-Crash-Course/USEFUL_INFO.md) - some usefull information before you will start<br>
