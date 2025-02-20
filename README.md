@@ -8,7 +8,7 @@ TOC:
 file  
 [[INTRODUCTION.md]](https://github.com/nazghulgda/Programming-Crash-Course/INTRODUCTION.md) - a few 
 words about my reasons of doing this course  
-[[USEFUL_INFO.md]](https://github.com/nazghulgda/Programming-Crash-Course/USEFUL_INFO.md) - some 
+[[USEFUL_INFORMATION.md]](https://github.com/nazghulgda/Programming-Crash-Course/USEFUL_INFORMATION.md) - some 
 usefull information before you will start  
 [[PREP_LINUX.md]](https://github.com/nazghulgda/Programming-Crash-Course/PREP_LINUX.md) - installation 
 and basics of Linux use  
