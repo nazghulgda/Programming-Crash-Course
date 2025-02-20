@@ -4,8 +4,8 @@
 
 
 <p>
-[README.md](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/README.md) - this file, <br>
-[[INTRODUCTION.md]] - a few words about my reasons of doing this course<br>
-[[USEFUL_INFO.md]] - some usefull information before you will start<br>
-[[PREP_LINUX.md]] - installation and basics of Linux use<br>
-[[PREP_SOFTWARE.md]] - installation and basic information about software, which you will use in this course</p>
+[README.md] - this file, <br>
+[INTRODUCTION.md] - a few words about my reasons of doing this course<br>
+[USEFUL_INFO.md] - some usefull information before you will start<br>
+[PREP_LINUX.md] - installation and basics of Linux use<br>
+[PREP_SOFTWARE.md] - installation and basic information about software, which you will use in this course</p>
