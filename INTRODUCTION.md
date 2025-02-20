@@ -1,5 +1,5 @@
-# nzghl Python and Django course part 001
-Python and Django course for very beginners
+## nzghl Python and Django crash course
+### Intended for very beginners
 
 If you are looking for basic knowledge about programming, you're 
 in the right place. What I offer here is the knowledge I've 
@@ -20,7 +20,7 @@ moment, when completely newbies are quitting. I want to change
 that part. Do not want to go quick through all lessons. Want to 
 go thorough each as long, as it is needed for learner to understand 
 all topics. Memorizing of everything is not a good way of learning. 
-When you understand things, you will know them and remember forever. 
+When you understand things, you will know them and remember forever.
 
 In matter of fact, the course can also help you with getting familiar 
 with linux OS, which is crucial. Of course, I know some people 
@@ -42,7 +42,7 @@ completely free.
 At the very beginning you will also read some quite usefull things, 
 which I strongly suggest to read and practice.
 
-===================================================================
+***
 
 How it is all organized?
 
