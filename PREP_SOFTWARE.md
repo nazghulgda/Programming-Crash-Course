@@ -5,6 +5,11 @@ help you to do the things you want to do. We will go now through mandatory progr
 including installation and basic information about each of them.
 
 1. ### IDE (Integrated Development Environment) - PyCharm
+IDE it is you program to work with code. As usual, there's many different IDEs
+available. If you wish, you can test all of them, and then decide which one suits
+you. Here I will show you PyCharm, you can download it *[jak się nazywa ta apka 
+do instalacji softu w ubuntu??]*
+
 
 2. ### GIT - version control system
 
@@ -15,3 +20,5 @@ including installation and basic information about each of them.
 5. ### meld - files comparison tool
 
 6. ### PostgreSQL - relational database system
+
+7. ### PGAdmin - database administration tool

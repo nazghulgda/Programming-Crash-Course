@@ -17,4 +17,22 @@ of choice :)
 
 1. ### System installation
 
+You will need a few things, to proceed with Linux installation:
+* USB memory stick, at least 8GB
+* ISO file with Linux
+* Tool to create bootable USB stick
+
+Theres a lot of Linux distribution available (Arch, Debian, Mint etc.), however
+Ubuntu seems to be most popular, and easiest to start with. To create bootable
+USB stick with installation, you need to download ISO image from [here](https://ubuntu.com/download/desktop).
+Choose a version with LTS (Long Time Support), as it is longer supported.
+
+Next step will be to download a tool, that will make your USB stock bootable
+with written ISO image on it. Again, there's big choice of such tools, however
+I always use Rufus (download from [here](https://rufus.ie/en/)).
+
+Now we will go through preparation of your installation media:
+After you open Rufus, you see something like on picture below:
+
+
 2. ### Linux basic commands and configuration
