@@ -1,11 +1,11 @@
-<h2>nzghl Python and Django crash course</h2>
-<h3>Python and Django course for very beginners</h3>
+## nzghl Python and Django crash course
+### Intended for very beginners
 
-<p>If you are looking for basic knowledge about programming, you're 
+If you are looking for basic knowledge about programming, you're 
 in the right place. What I offer here is the knowledge I've 
-collected by the time, and finally got myself up to share it.</p>
+collected by the time, and finally got myself up to share it.
 
-<p>A lots of things I'm putting here I have learned on bootcamp, 
+A lots of things I'm putting here I have learned on bootcamp, 
 but also, later on, getting deeper into knowledge I've gained.
 However there was one thing, which cause me a little bit ... 
 confused. Lots of courses, trainings or bootcamps gives really 
@@ -20,29 +20,29 @@ moment, when completely newbies are quitting. I want to change
 that part. Do not want to go quick through all lessons. Want to 
 go thorough each as long, as it is needed for learner to understand 
 all topics. Memorizing of everything is not a good way of learning. 
-When you understand things, you will know them and remember forever.</p>
+When you understand things, you will know them and remember forever.
 
-<p>In matter of fact, the course can also help you with getting familiar 
+In matter of fact, the course can also help you with getting familiar 
 with linux OS, which is crucial. Of course, I know some people 
 programming in Windows, I even tried it by myself, but ... it's not 
 that nice and easy, as in linux (or any unix-like) system. My 
 personal preferences are actually also a little bit different, as 
 I preffer to work on mac, but to be honest, the difference between 
-mac and linux is just a graphical. Core is the same.</p>
+mac and linux is just a graphical. Core is the same.
 
-<p>This is a first stage of the course. Here you will learn:
+This is a first stage of the course. Here you will learn:
 - How to install and use linux. I strongly recommend Ubuntu 
 distribution, as it is user friendly, easy to work with and of course 
 completely free.
 - How to work in linux environement.
 - What is GIT and why you need it.
 - HTML and CSS - some basic prework.
-- Python - as above, some basic things to get familiar with it.</p>
+- Python - as above, some basic things to get familiar with it.
 
-<p>At the very beginning you will also read some quite usefull things, 
-which I strongly suggest to read and practice.</p>
+At the very beginning you will also read some quite usefull things, 
+which I strongly suggest to read and practice.
 
-<hr>
+***
 
 How it is all organized?
 
