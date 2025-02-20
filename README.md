@@ -1,8 +1,9 @@
 ## Welcome to my 'crash course' about basics of programming.
 
-In this chapter you will got prepared yourself and your computer for 
-learning all the topics, that are going to be covered here.
+In this chapter you will read some information from me and got prepared yourself and your 
+computer for learning all the topics, that are going to be covered here.
 
+TOC:  
 [[README.md]](https://github.com/nazghulgda/Programming-Crash-Course/README.md) - this 
 file  
 [[INTRODUCTION.md]](https://github.com/nazghulgda/Programming-Crash-Course/INTRODUCTION.md) - a few 
