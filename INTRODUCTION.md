@@ -27,19 +27,19 @@ with linux OS, which is crucial. Of course, I know some people
 programming in Windows, I even tried it by myself, but ... it's not 
 that nice and easy, as in linux (or any unix-like) system. My 
 personal preferences are actually also a little bit different, as 
-I preffer to work on mac, but to be honest, the difference between 
+I prefer to work on mac, but to be honest, the difference between 
 mac and linux is just a graphical. Core is the same.
 
 This is a first stage of the course. Here you will learn:
 - How to install and use linux. I strongly recommend Ubuntu 
 distribution, as it is user friendly, easy to work with and of course 
 completely free.
-- How to work in linux environement.
+- How to work in linux environment.
 - What is GIT and why you need it.
-- HTML and CSS - some basic prework.
+- HTML and CSS - some basic pre-work.
 - Python - as above, some basic things to get familiar with it.
 
-At the very beginning you will also read some quite usefull things, 
+At the very beginning you will also read some quite useful things, 
 which I strongly suggest to read and practice.
 
 ***
