@@ -27,7 +27,43 @@ What is a web application? It is a software written by using a few technologies
 (one of those you will learn in this course), which works on a client - server
 architecture. It can communicate with another applications and / or servers and
 performing actions on user's request. Some examples are: Facebook, LinkedIn, GMail,
-internet shops, bank systems, communicators and games.
+internet shops, bank systems, communicators and games.  
+For web apps development there's lots of technologies used, but for now we need to know
+just some of them: HTML, CSS and JavaScript.  
+**HTML** is a markup language which is used to describe web page structure - paragraphs,
+tables, lists, header and footer, forms, hyperlinks etc. You will learn about it
+a little bit later, however it would be good to go deeper into this topic (we're not
+going to spend much time about it in this course). Latest HTML5 standard (described
+in details on World Wide Web Consortium site) can also communicate with user,
+handle multimedia content.
+**CSS** - Cascading Style Sheet is used to describe the look of an elements on the
+web page, including animations and transformations. As with HTML, we will cover only
+basics here, and if you want to make your work look nice, you should also dive a little
+bit into CSS world.
+**JavaScript** can define a reactions of a web page in response to user's actions.
+JavaScript can also be used to implement some part of application's logic on the
+client side - web browser can interpret JavaScript code and run it.  
+
+#### How it really works?  
+The whole process which starts with your click on link, or hitting ENTER after you
+wrote an address is called rendering of a web page. First stage is to "unload" 
+the page you currently have displayed in the browser. After this, browser is reading
+an address of link, or the one from address bar, and checks if requested page is
+stored in browser's cache. If its found, you get it really fast on your screen.
+If cache does not contains requested page, browser connects with DNS server to resolve
+an IP address of the server, which has data you requested, and establishes connection
+with that server. The next step is to use a proper HTTP protocol method (usually GET,
+POST, PUT or DELETE - we will come back to those later in the course) which is actual
+request. If server properly receive your browser's request, and can "serve" requested
+data, sends those to your browser (this process is called response). At this moment
+your browser starts to work hard - browser analyses received data, builds Document
+Object Model (DOM - we will also cover this topic later) based on HTML, applies CSS,
+executes JavaScript scripts and finally displays the page you requested. Due to this
+schema, it is a good practice to put all JavaScript code at the end of HTML file,
+just before closing `</body>` marker.
+
+For the moment that's all information you need to know about web browsers. During the
+course we will come back to this topic to get a little bit more into details.
 
 3. ### Lore ipsum
 
