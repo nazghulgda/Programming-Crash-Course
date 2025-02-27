@@ -89,7 +89,7 @@ choose Disk Management:
    space from it for our Ubuntu installation. Just right-click on `C:` and select 
    `Shrink` option from menu (I did not made a screenshot, as every time I tried,
    right-click menu was dissapearing ;) - you need to believe me).  
-   ![Disk overview](/images/disk-preparation-02.png)
+   ![Disk overview](/images/disk-preparation-02.png)  
    If you have a large drive it can take a while to calculate, as Windows will check
    how much space can be freed for you:
    ![Disk shrinking calculation](/images/disk-preparation-03.png)
