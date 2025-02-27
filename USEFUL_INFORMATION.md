@@ -1,4 +1,4 @@
-## Some useful information that can help you
+## Some useful information that can be helpful
 
 1. ### Speed of typing  
 I have heard it many times, that speed typing is very helpful skill, however 
@@ -62,7 +62,7 @@ executes JavaScript scripts and finally displays the page you requested. Due to 
 schema, it is a good practice to put all JavaScript code at the end of HTML file,
 just before closing `</body>` marker.
 
-For the moment that's all information you need to know about web browsers. During the
+For the moment that's all you need to know about web browsers. During the
 course we will come back to this topic to get a little bit more into details.
 
 3. ### Lore ipsum

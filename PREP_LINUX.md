@@ -72,11 +72,44 @@ Windows everything will be much easier, however, if you want to keep Windows
 aside of Linux, we need to prepare your hard drive for installation.
 
 
-1. ### Hard drive preparation  
-   #### If you are going to install Ubuntu Linux as the only one system on your computer, you can skip that part.
+2. ### Hard drive preparation  
+   #### If you are going to install Ubuntu Linux as the only one system on your computer, you can this preparation.
    
    #### If you are going to install Ubuntu Linux along with Windows - to be able to use both systems - you will need to prepare your computer's hard drive for installation.
-   For that you will need to adjust your Windows partition size and free some space for Linux. You can do it quite simply using Disk Management (right click on Start and choose Disk Management).
+   #### **IMPORTAND THING!!! If you are using Bitlocker function (encrypting your hard drive by Windows) you need to turn it off for installation time. After Ubuntu will be installed, you can turn it back on.**
+   1. For that you will need to adjust your Windows partition size and free some space for
+Linux. You can do it quite simply using Disk Management - right click on Start and
+choose Disk Management:  
+![Disk Management](/images/disk-preparation-01.png)
+   2. In Disk Management window you will find your hard drive as well as information
+   about all its partitions. Based on my hard drive structure (picture below) you can
+   see how it looks. Of course you need to be sure, you have enough disc space - I'd
+   recommend about 250GB to be freed.  
+   As you see below, disk `C:\` is my main drive with Windows. We are going to grab some
+   space from it for our Ubuntu installation. Just right-click on `C:` and select 
+   `Shrink` option from menu (I did not made a screenshot, as every time I tried,
+   right-click menu was dissapearing ;) - you need to believe me).
+   ![Disk overview](/images/disk-preparation-02.png)
+   If you have a large drive it can take a while to calculate, as Windows will check
+   how much space can be freed for you:
+   ![Disk shrinking calculation](/images/disk-preparation-03.png)
+   3. As calculation will be finished, you will see the windows with maximum size of space you
+   can get:
+   ![Disk space to be freed](/images/disk-preparation-04.png)
+   I strongly advise not to use all available space. First, you will not need as much
+   space for Ubuntu, and the second, Windows can slow down like hell. If you plan
+   to use still Windows, give it some space to live ;)
+   The amount I'd advise is 256GB, but anything from 100GB should be ok. Basically, it
+   is up to you, how much do you need. Please remember, later on it can get much harder
+   to rearrange a hard drive space.
+   ![Disk space for Ubuntu](/images/disk-preparation-05.png)
+   4. Now click "OK" and ... wait until Windows will shrink it's space and free for you
+   some space. When finished, you will see unallocated part of your hard drive:
+   ![Disk space prepared](/images/disk-preparation-06.png)
+   That is the place, when Ubuntu will be installed.
+
+
+
 
 
 3. ### Linux basic commands and configuration
