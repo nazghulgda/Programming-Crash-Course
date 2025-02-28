@@ -73,7 +73,7 @@ aside of Linux, we need to prepare your hard drive for installation.
 
 
 2. ### Hard drive preparation  
-   #### If you are going to install Ubuntu Linux as the only one system on your computer, you can this preparation.
+   #### If you are going to install Ubuntu Linux as the only one system on your computer, you can skip this preparation.
    
    #### If you are going to install Ubuntu Linux along with Windows - to be able to use both systems - you will need to prepare your computer's hard drive for installation.
    #### **IMPORTAND THING!!! If you are using Bitlocker function (encrypting your hard drive by Windows) you need to turn it off for installation time. After Ubuntu will be installed, you can turn it back on.**
