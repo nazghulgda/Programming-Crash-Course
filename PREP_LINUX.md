@@ -106,8 +106,44 @@ choose Disk Management:
    4. Now click "OK" and ... wait until Windows will shrink it's space and free for you
    some space. When finished, you will see unallocated part of your hard drive:  
    ![Disk space prepared](/images/disk-preparation-06.png)  
-   That is the place, when Ubuntu will be installed.
+   That is the place, when Ubuntu will be installed.  
 
+3. ### Ubuntu Linux installation.
+In order to start Ubuntu installation you need to boot your computer from USB stick. 
+There's so many different possibilities to enter computer's BIOS, you have to find it out 
+on you'r own. When properly configured, your computer will start from previously prepared 
+USB stick, and will give you a few options:  
+![Installation screen - boot screen](/images/installation_01.png)  
+
+Of course the choice is "Try or install Ubutu". As it is sort of a "live CD", it will 
+take while to load Linux from USB, but as you may guess, apart of installation, you 
+can also give it a try, and work a little bit with it without installation. But ... 
+we're no going to play ... let's move forward.  
+![Installation screen - linux loading](/images/installation_02.png)  
+
+Next steps will be:
+* choice of your language:  
+![Installation screen - language choice](/images/installation_03.png)  
+* accessibility options, if you need any of them:  
+![Installation screen - accessibility options](images/installation_04.png)  
+* keyboard layout (mine is Polish, as I use polish special characters):  
+![Installation screen - keyboard choice](/images/installation_05.png)  
+* internet connection:  
+![Installation screen - internet connection](/images/installation_06.png)  
+Here I suggest to get connected to the internet. You will be asked to update the 
+installer, but you will be 100% sure, you'll get newest versions of software.  
+![Installation screen - installer update](/images/installation_07.png)  
+After Installer update you will have to start installation process again, but 
+as I mentioned above, you will be sure, that all installed files will be with up 
+to date version.  
+
+Now you will decide, which type of installation you want to go with. Definitely 
+the choice will be "Interactive installation":  
+![Installation screen - installation type](/images/installation_08.png)  
+
+When asked to choose a set of applications you want to be installed, you can choose 
+"Default selection", as all needed programs we will install later on.  
+![Installation screen - apps choice](/images/installation_09.png)  
 
 
 
