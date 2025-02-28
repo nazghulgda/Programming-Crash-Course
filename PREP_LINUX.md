@@ -101,11 +101,11 @@ choose Disk Management:
    to use still Windows, give it some space to live ;)
    The amount I'd advise is 256GB, but anything from 100GB should be ok. Basically, it
    is up to you, how much do you need. Please remember, later on it can get much harder
-   to rearrange a hard drive space.
+   to rearrange a hard drive space.  
    ![Disk space for Ubuntu](/images/disk-preparation-05.png)
    4. Now click "OK" and ... wait until Windows will shrink it's space and free for you
-   some space. When finished, you will see unallocated part of your hard drive:
-   ![Disk space prepared](/images/disk-preparation-06.png)
+   some space. When finished, you will see unallocated part of your hard drive:  
+   ![Disk space prepared](/images/disk-preparation-06.png)  
    That is the place, when Ubuntu will be installed.
 
 
