@@ -95,7 +95,7 @@ choose Disk Management:
    ![Disk shrinking calculation](/images/disk-preparation-03.png)
    3. As calculation will be finished, you will see the windows with maximum size of space you
    can get:
-   ![Disk space to be freed](/images/disk-preparation-04.png)
+   ![Disk space to be freed](/images/disk-preparation-04.png)  
    I strongly advise not to use all available space. First, you will not need as much
    space for Ubuntu, and the second, Windows can slow down like hell. If you plan
    to use still Windows, give it some space to live ;)
