@@ -3,7 +3,7 @@
 In this initial part you will read some information from me and got prepared yourself 
 and your computer for learning all the topics, that are going to be covered here.
 
-TOC:  
+**TOC:**  
 [[README.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/README.md) - this file  
 [[INTRODUCTION.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/INTRODUCTION.md) - a few words about my reasons of doing this course  
 [[USEFUL_INFORMATION.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/USEFUL_INFORMATION.md) - some useful information before you will start  

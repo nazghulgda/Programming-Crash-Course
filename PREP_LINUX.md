@@ -149,3 +149,12 @@ When asked to choose a set of applications you want to be installed, you can cho
 
 
 3. ### Linux basic commands and configuration
+
+
+**TOC:**  
+[[README.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/README.md) - README  
+[[INTRODUCTION.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/INTRODUCTION.md) - a few words about my reasons of doing this course  
+[[USEFUL_INFORMATION.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/USEFUL_INFORMATION.md) - some useful information before you will start  
+[[PREP_LINUX.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/PREP_LINUX.md) - this file  
+[[PREP_SOFTWARE.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/PREP_SOFTWARE.md) - 
+installation and basic information about software, which you will use in this course  

@@ -68,3 +68,11 @@ course we will come back to this topic to get a little bit more into details.
 3. ### Lore ipsum
 
 4. ### HTTP Protocol basics
+
+**TOC:**  
+[[README.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/README.md) - README  
+[[INTRODUCTION.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/INTRODUCTION.md) - a few words about my reasons of doing this course  
+[[USEFUL_INFORMATION.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/USEFUL_INFORMATION.md) - this file  
+[[PREP_LINUX.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/PREP_LINUX.md) - installation and basics of Linux use  
+[[PREP_SOFTWARE.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/PREP_SOFTWARE.md) - 
+installation and basic information about software, which you will use in this course  

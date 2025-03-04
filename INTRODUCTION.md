@@ -60,3 +60,12 @@ A subfolders will contain a topics, which we will work on - also
 with README.md (containing lessons and tasks descriptions) and all 
 files you will need to do your work. The number of subfolders will 
 depend on topic and complexity they cover.
+
+
+**TOC:**  
+[[README.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/README.md) - README  
+[[INTRODUCTION.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/INTRODUCTION.md) - this file  
+[[USEFUL_INFORMATION.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/USEFUL_INFORMATION.md) - some useful information before you will start  
+[[PREP_LINUX.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/PREP_LINUX.md) - installation and basics of Linux use  
+[[PREP_SOFTWARE.md]](https://github.com/nazghulgda/Programming-Crash-Course/blob/main/PREP_SOFTWARE.md) - 
+installation and basic information about software, which you will use in this course  
